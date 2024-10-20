@@ -26,5 +26,4 @@ SUPABASE_ANON_KEY (Project Settings - API)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 # cook-up
-# notes-app
 ```
